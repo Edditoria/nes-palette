@@ -1,0 +1,25 @@
+# This file is to unify coding style for different editors and IDEs.
+# Website: https://editorconfig.org
+#
+# Note: Remember to update .gitattributes for new changes.
+
+root=true
+
+[*]
+charset=utf-8
+# end_of_line=lf # text=auto in .gitattributes
+indent_style=tab
+insert_final_newline=true
+
+[{*.json,*.md}]
+end_of_line=lf
+
+[{*.sh,*.bash,*.zsh}]
+end_of_line=lf
+
+[{*.bat,*.cmd,*.ps1}]
+end_of_line=lf
+
+[{*.yml,*.yaml,bower.json,package.json,package-lock.json}]
+indent_style=space
+indent_size=2
