@@ -1,0 +1,69 @@
+name: wikipedia
+url: https://en.wikipedia.org/wiki/List_of_video_game_console_palettes#NES
+description: |-
+  This palette is basically the table data in the page "List of video game console palettes".
+colors:
+  - "59595F" # 0x00
+  - "00008F"
+  - "18008F"
+  - "3F0077"
+  - "550055"
+  - "550011"
+  - "550000"
+  - "442200"
+  - "333300"
+  - "113300"
+  - "003311" # 0x0A
+  - "004444"
+  - "004466"
+  - "000000"
+  - "080808"
+  - "080808"
+  - "AAAAAA" # 0x10
+  - "0044DD"
+  - "5511EE"
+  - "7700EE"
+  - "9900BB"
+  - "AA0055"
+  - "993300"
+  - "884400"
+  - "666600"
+  - "336600"
+  - "006600" # 0x1A
+  - "006655"
+  - "005588"
+  - "080808"
+  - "080808"
+  - "080808"
+  - "EEEEEE" # 0x20
+  - "4488FF"
+  - "7777FF"
+  - "9944FF"
+  - "BB44EE"
+  - "CC5599"
+  - "DD6644"
+  - "CC8800"
+  - "BBAA00"
+  - "77BB00"
+  - "22BB22" # 0x2A
+  - "22BB77"
+  - "22BBCC"
+  - "444444"
+  - "080808"
+  - "080808"
+  - "EEEEEE" # 0x30
+  - "99CCFF"
+  - "AAAAFF"
+  - "BB99FF"
+  - "DD99FF"
+  - "EE99DD"
+  - "EEAAAA"
+  - "EEBB99"
+  - "EEDD88"
+  - "BBDD88"
+  - "99DD99" # 0x3A
+  - "99DDBB"
+  - "99DDEE"
+  - "AAAAAA"
+  - "080808"
+  - "080808"
