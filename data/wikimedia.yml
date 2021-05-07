@@ -1,0 +1,69 @@
+name: wikimedia
+url: https://commons.wikimedia.org/wiki/File:NES_palette.png
+description: |-
+  This palette is used in wiki page: "List of video game console palettes". The file is updated as at 2021-03-02.
+colors:
+  - "666666" # 0x00
+  - "002A88"
+  - "1412A8"
+  - "3B00A4"
+  - "5C007E"
+  - "6E0040"
+  - "6C0700"
+  - "571D00"
+  - "343500"
+  - "0C4900"
+  - "005200" # 0x0A
+  - "004F08"
+  - "00404E"
+  - "000000"
+  - "000000"
+  - "000000"
+  - "AEAEAE" # 0x10
+  - "155FDA"
+  - "4240FE"
+  - "7627FF"
+  - "A11BCD"
+  - "B81E7C"
+  - "B53220"
+  - "994F00"
+  - "6C6E00"
+  - "388700"
+  - "0D9400" # 0x1A
+  - "009032"
+  - "007C8E"
+  - "000000"
+  - "000000"
+  - "000000"
+  - "FEFEFE" # 0x20
+  - "64B0FE"
+  - "9390FE"
+  - "C777FE"
+  - "F36AFE"
+  - "FE6ECD"
+  - "FE8270"
+  - "EB9F23"
+  - "BDBF00"
+  - "89D900"
+  - "5DE530" # 0x2A
+  - "45E182"
+  - "48CEDF"
+  - "4F4F4F"
+  - "000000"
+  - "000000"
+  - "FEFEFE" # 0x30
+  - "C1E0FE"
+  - "D4D3FE"
+  - "E9C8FE"
+  - "FBC3FE"
+  - "FEC5EB"
+  - "FECDC6"
+  - "F7D9A6"
+  - "E5E695"
+  - "D0F097"
+  - "BEF5AB" # 0x3A
+  - "B4F3CD"
+  - "B5ECF3"
+  - "B8B8B8"
+  - "000000"
+  - "000000"
