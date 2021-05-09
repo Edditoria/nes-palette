@@ -1,0 +1,69 @@
+name: pixeltaoV2
+url: https://pixeltao.ca/post/152163410138/the-infamous-nes-palette
+description: |-
+  This palette is created by Jonathan Lavigne, a pixel game developer. This version is improve for LCD screens.
+colors:
+  - "5F5F5F" # 0x00
+  - "001F97"
+  - "0F00BF"
+  - "4300A7"
+  - "7F0077"
+  - "8F0027"
+  - "8F0700"
+  - "772700"
+  - "473f00"
+  - "004700"
+  - "004F0F" # 0x0A
+  - "00472F"
+  - "004767"
+  - "000000"
+  - "000000"
+  - "000000"
+  - "AFAFAF" # 0x10
+  - "0057F7"
+  - "1F3FFF"
+  - "671FF7"
+  - "AF07CF"
+  - "D70057"
+  - "DF1700"
+  - "BF4700"
+  - "876700"
+  - "178700"
+  - "009717" # 0x1A
+  - "008757"
+  - "007FA7"
+  - "171717"
+  - "000000"
+  - "000000"
+  - "EFEFEF" # 0x20
+  - "279FFF"
+  - "4387FF"
+  - "876FFF"
+  - "C75FFF"
+  - "FF579F"
+  - "FF6F4F"
+  - "FF8700"
+  - "CFA700"
+  - "6FC700"
+  - "1FCF2F" # 0x2A
+  - "17CF97"
+  - "00BFE7"
+  - "474747"
+  - "000000"
+  - "000000"
+  - "EFEFEF" # 0x30
+  - "AFCFFF"
+  - "B7B7FF"
+  - "C7AFFF"
+  - "E7A7FF"
+  - "F7B7E7"
+  - "FFC7CF"
+  - "FFCF97"
+  - "F7E797"
+  - "D7F78F"
+  - "AFFF97" # 0x3A
+  - "9FF7CF"
+  - "87E7F7"
+  - "8F8F8F"
+  - "000000"
+  - "000000"
