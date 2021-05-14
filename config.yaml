@@ -1,0 +1,16 @@
+# This file contains some configs for Hugo site generator.
+
+baseURL: "https://edditoria.github.io/nes-palettes"
+languageCode: en-us
+title: NES Palettes
+
+# Site configs
+
+archetypeDir: site/archetypes
+contentDir: site/content
+# dataDir: data # use default
+layoutDir: site/layouts
+publishDir: site/public
+resourceDir: site/resources
+staticDir: site/static
+themesDir: site/themes
